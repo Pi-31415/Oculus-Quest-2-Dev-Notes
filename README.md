@@ -1,7 +1,7 @@
 # Oculus-Quest-2-Dev-Notes
 Development Notes for Oculus Quest 2 for Haptics Research
 
-- Oculus 
+- Oculus Setup on Mac [Tutorial](https://medium.com/@sofaracing/how-to-develop-for-oculus-quest-on-macos-with-unity-5aa487b80d13)
 
 ## Workflow
 
