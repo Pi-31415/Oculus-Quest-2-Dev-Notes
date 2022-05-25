@@ -3,6 +3,10 @@ Development Notes for Oculus Quest 2 for Haptics Research
 
 - Oculus Setup on Mac [Tutorial](https://medium.com/@sofaracing/how-to-develop-for-oculus-quest-on-macos-with-unity-5aa487b80d13)
 
+## Limitations
+
+- Note: There is a known issue with the thumb trapezium bone (Thumb0) in the OpenXR backend. The Thumb0 bone pose does not pinch all the way and there is about a 1/8 of an inch gap between the index finger and thumb when using the system gestures.
+
 ## Workflow
 
 - There are 2 ways to run the application, either on Oculus device, or let the computer take the load.
