@@ -20,7 +20,8 @@ Development Notes for Oculus Quest 2 for Haptics Research
 
 - [HAND TRACKING with the Oculus Quest](https://www.youtube.com/watch?v=vSia7t_WlbQ&ab_channel=Valem)
 - [A good YouTube channel for anything VR](https://www.youtube.com/c/ValemVR/videos)
-- [Recent Hand Tracking Tutorial](https://www.youtube.com/watch?v=jqN4WHL8SYU)
+- [Recent Hand Tracking Tutorial - Too Expensive](https://www.youtube.com/watch?v=jqN4WHL8SYU)
+- [Working Hand] (https://www.youtube.com/watch?v=WELSs-lPJYA)
 
 ## Relevant Leapmotion Tutorials
 - [How To Get Started With The Hands Module | Ultraleap](https://www.youtube.com/watch?v=JTnSuwcfcWc&ab_channel=Ultraleap)
