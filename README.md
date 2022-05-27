@@ -2,6 +2,7 @@
 Development Notes for Oculus Quest 2 for Haptics Research
 
 - Oculus Setup on Mac [Tutorial](https://medium.com/@sofaracing/how-to-develop-for-oculus-quest-on-macos-with-unity-5aa487b80d13)
+- UDP Connection [Tutorial](https://forums.oculusvr.com/t5/Oculus-Quest-2-and-Quest/How-to-receive-OSC-Data-via-UDP-IP-on-the-Quest/td-p/816233)
 
 ## Limitations
 
